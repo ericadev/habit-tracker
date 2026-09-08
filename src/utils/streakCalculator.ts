@@ -1,4 +1,4 @@
-import { HabitLog } from '../types';
+import type { HabitLog } from '../types';
 import { formatDate, parseDate, getToday } from './dateUtils';
 
 /**

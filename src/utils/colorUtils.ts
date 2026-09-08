@@ -1,4 +1,4 @@
-import { Category, CATEGORY_COLORS, CATEGORY_COLOR_CLASSES } from '../types';
+import { CATEGORY_COLORS, CATEGORY_COLOR_CLASSES, type Category } from '../types';
 
 /**
  * Get the base color name for a category
