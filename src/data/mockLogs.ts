@@ -1,4 +1,4 @@
-import { HabitLog } from '../types';
+import type { HabitLog } from '../types';
 
 // Helper function to generate dates
 const generateDate = (daysAgo: number): string => {

@@ -1,4 +1,4 @@
-import { Habit, HabitLog } from '../types';
+import type { Habit, HabitLog } from '../types';
 import { getDaysAgo, getDayOfWeek, getToday } from './dateUtils';
 import { getCompletionCountInRange } from './streakCalculator';
 

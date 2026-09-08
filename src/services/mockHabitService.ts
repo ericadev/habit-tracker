@@ -1,4 +1,4 @@
-import { Habit, HabitLog, HabitStats } from '../types';
+import type { Habit, HabitLog, HabitStats } from '../types';
 import { mockHabits } from '../data/mockHabits';
 import { mockLogs } from '../data/mockLogs';
 

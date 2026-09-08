@@ -1,4 +1,4 @@
-import { Habit } from '../types';
+import type { Habit } from '../types';
 
 export const mockHabits: Habit[] = [
   {
